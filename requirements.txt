@@ -4,3 +4,4 @@ plotly
 dash
 jupyter
 ipykernel
+dash-bootstrap-components
