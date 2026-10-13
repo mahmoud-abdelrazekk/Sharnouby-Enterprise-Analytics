@@ -154,7 +154,5 @@ Each application focuses on a distinct business function, while the notebook sup
 
 ## Getting Started
 
-1. Clone or download the repository.
-2. Install the Python dependencies required by the applications.
-3. Ensure that the required data files are available in the expected locations.
-4. Run the Python script corresponding to the application you want to explore.
+pip install -r requirements.txt
+python unified_app.py
