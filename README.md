@@ -51,6 +51,72 @@ The platform brings eight analytical applications together in one unified interf
 - Analyze pricing, revenue, and margin trade-offs.
 - Support more informed discount decisions.
 
+  ## 🖥️ Application Screenshots
+
+Explore the eight applications that make up the El-Sharnouby Enterprise Analytics platform.
+
+<table>
+  <tr>
+    <td width="50%">
+      <strong>01 — Executive Dashboard</strong><br/>
+      <img src="assets/screenshots/01-executive-dashboard.png" alt="Executive Dashboard" width="100%"/>
+    </td>
+    <td width="50%">
+      <strong>02 — Smart Inventory & Replenishment</strong><br/>
+      <img src="assets/screenshots/02-smart-inventory-forecasting.png" alt="Smart Inventory and Forecasting" width="100%"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <strong>03 — Customer 360</strong><br/>
+      <img src="assets/screenshots/03-customer-360.png" alt="Customer 360" width="100%"/>
+    </td>
+    <td width="50%">
+      <strong>04 — Production & Downtime</strong><br/>
+      <img src="assets/screenshots/04-production-downtime-analytics.png" alt="Production and Downtime Analytics" width="100%"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <strong>05 — Marketing Analytics</strong><br/>
+      <img src="assets/screenshots/05-marketing-analytics.png" alt="Marketing Analytics" width="100%"/>
+    </td>
+    <td width="50%">
+      <strong>06 — Branch Performance</strong><br/>
+      <img src="assets/screenshots/08-branch-performance.png" alt="Branch Performance" width="100%"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <strong>07 — Procurement & Supplier Risk</strong><br/>
+      <img src="assets/screenshots/10-procurement-supplier-risk.png" alt="Procurement and Supplier Risk" width="100%"/>
+    </td>
+    <td width="50%">
+      <strong>08 — Discount & Profit Optimizer</strong><br/>
+      <img src="assets/screenshots/11-discount-profit-optimizer.png" alt="Discount and Profit Optimizer" width="100%"/>
+    </td>
+  </tr>
+</table>
+
+### 🔎 Additional Inventory & Forecasting Insights
+
+**Inventory Replenishment Plan**
+
+![Inventory Replenishment Plan](assets/screenshots/12-inventory-replenishment-plan.png)
+
+**Demand Forecasting Details**
+
+![Demand Forecasting Details](assets/screenshots/06-demand-forecasting-detail.png)
+
+**Forecast Model Performance**
+
+![Forecast Model Performance](assets/screenshots/07-forecast-model-performance.png)
+
+**Branch Location Analysis**
+
+![Branch Location Analysis](assets/screenshots/09-branch-location-analysis.png)
+
+
 ## 🧠 Technology Stack
 
 - **Python** — Core programming language
